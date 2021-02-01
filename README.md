@@ -6,7 +6,7 @@ https://travis-ci.com/lauraaa96/DAW1-ED-Pruebas-Ejemplo1.svg?branch=master
 [![codecov](https://codecov.io/gh/jamj2000/DAW1-ED-Pruebas-Ejemplo1/branch/master/graph/badge.svg)](https://codecov.io/gh/jamj2000/DAW1-ED-Pruebas-Ejemplo1)
 [![Sonar](https://sonarcloud.io/api/project_badges/measure?project=miapp&metric=alert_status)](https://sonarcloud.io/organizations/jamj2000-github/projects)
 
-
+![](https://img.shields.io/badge/jdk-11-ff69b4)
 ![JDK 8](https://img.shields.io/badge/JDK-8-blue.svg)
 ![Gradle](https://img.shields.io/badge/gradle-4-blue.svg)
 ![JUnit 4](https://img.shields.io/badge/JUnit-4-blue.svg)
